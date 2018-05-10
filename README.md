@@ -1,1 +1,1 @@
-# Simulación Montecarlo de Distribución de Rayleigh
+# Simulación Monte Carlo: Distribución de Rayleight
