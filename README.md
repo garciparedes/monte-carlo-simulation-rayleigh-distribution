@@ -1,1 +1,1 @@
-# lmontecarlo-simulation-of-rayleigh-distribution
+# Simulación Montecarlo de Distribución de Rayleigh
