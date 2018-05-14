@@ -1,4 +1,4 @@
-# Simulación Monte Carlo: Distribución de Rayleight
+# Simulación Monte Carlo: Distribución de Rayleigh
 
 
 ## Descripción
